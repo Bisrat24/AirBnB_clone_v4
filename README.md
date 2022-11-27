@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Aschalew Damtew - [Github](https://github.com/) / [Twitter](https://twitter.com/)  
-Ermias Bahru - [Github](https://github.com/ermiasbahru) / [Twitter](https://twitter.com/ermias_bahru)
+Bisrat Tamire - [Github](https://github.com/Bisrat24) / [Gmail](bisrattam@gmail.com/)  
+Mebrahtom Amaha - [Github]() / [Gmail](mebrieka@gmail.com)
 
 Second part of Airbnb
 ## License
